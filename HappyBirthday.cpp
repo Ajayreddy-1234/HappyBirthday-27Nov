@@ -1,3 +1,14 @@
+/*  Instructions to run the code:
+1. open `https://www.onlinegdb.com/online_c++_compiler` link in new tab.
+2. Then remove all the default code in editor.
+3. copy the code below from line 12 to the end of code and paste in editor
+4. Now click on *Debug* (not on run) and enlarge the below ouput screen
+   on top and sideways(to right) as much as possible.
+5. click on start button to watch the output.
+6. Hope you like it.
+Note: if you find any question marks instead try clicking on start button again 
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
